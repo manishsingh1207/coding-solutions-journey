@@ -2,14 +2,15 @@
  * @param {number[]} nums
  * @return {boolean}
  */
-var containsDuplicate = function(nums) {
- nums.sort((a,b)=>a-b);
+var containsDuplicate = function (nums) {
+    let myset = new Set();
 
-    for(let i=1;i<nums.length;i++)
-    {
-        if(nums[i]===nums[i-1])
-        {
+    for (num of nums) {
+        if (myset.has(num)) {
             return true;
+        }
+        else {
+            myset.add(num);
         }
     }
     return false;
