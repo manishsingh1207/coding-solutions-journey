@@ -7,11 +7,13 @@ A collection of my coding problem solutions and interview preparation across Lee
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -20,5 +22,18 @@ A collection of my coding problem solutions and interview preparation across Lee
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
