@@ -7,6 +7,7 @@ A collection of my coding problem solutions and interview preparation across Lee
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0228-summary-ranges) |
@@ -37,4 +38,8 @@ A collection of my coding problem solutions and interview preparation across Lee
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manishsingh1207/coding-solutions-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
